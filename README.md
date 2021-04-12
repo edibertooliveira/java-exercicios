@@ -1,13 +1,13 @@
 > Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Ediberto bonfim de Oliveira](https://www.linkedin.com/in/ediberto-b-oliveira-872926178/)_ enquanto estudava [JAVA](https://www.youtube.com/watch?v=LnORjqZUMIQ&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&ab_channel=LoianeGroner) :rocket:
 
-## Java Development
+## Java Development - Módulo 1
 
 ### Exercicios
 
 #### 01 - Lógica de programação, comandos básicos:
 
-- [ ] 1-1 Primeiros Programa em Java
-- [ ] 1-2 Passando argumentos para o programa
+- [x] [1-1 Primeiros Programa em Java](https://www.youtube.com/watch?v=mu2ti43cgwc&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=6&ab_channel=LoianeGroner)
+- [ ] 1-2 [Passando argumentos para o programa]()
 - [ ] 1-3 Entendendo os Erros
 - [ ] 1-4 Instalando uma IDE (Eclipse e Netbeans) no Linux
 - [ ] 1-5 Introdução à Orientação a Objetos
