@@ -7,7 +7,7 @@
 #### 01 - Lógica de programação, comandos básicos:
 
 - [x] [1-1 Primeiros Programa em Java](https://www.youtube.com/watch?v=mu2ti43cgwc&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=6&ab_channel=LoianeGroner)
-- [x] 1-2 [Passando argumentos para o programa](https://www.youtube.com/watch?v=dhGPGv7XCM8&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=8&ab_channel=LoianeGroner)
+- [x] [1-2 Passando argumentos para o programa](https://www.youtube.com/watch?v=dhGPGv7XCM8&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=8&ab_channel=LoianeGroner)
 - [ ] 1-3 Entendendo os Erros
 - [ ] 1-4 Instalando uma IDE (Eclipse e Netbeans) no Linux
 - [ ] 1-5 Introdução à Orientação a Objetos
