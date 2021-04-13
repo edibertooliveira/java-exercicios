@@ -8,9 +8,9 @@
 
 - [x] [1-1 Primeiros Programa em Java](https://www.youtube.com/watch?v=mu2ti43cgwc&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=6&ab_channel=LoianeGroner)
 - [x] [1-2 Passando argumentos para o programa](https://www.youtube.com/watch?v=dhGPGv7XCM8&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=8&ab_channel=LoianeGroner)
-- [ ] 1-3 Entendendo os Erros
-- [ ] 1-4 Instalando uma IDE (Eclipse e Netbeans) no Linux
-- [ ] 1-5 Introdução à Orientação a Objetos
+- [x] [1-3 Entendendo os Erros](https://www.youtube.com/watch?v=NoEoOaTSFMo&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=10&ab_channel=LoianeGroner)
+- [x] [1-4 Instalando uma IDE (Eclipse e Netbeans) no Linux](https://www.youtube.com/watch?v=74QEhBpzixs&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=12&ab_channel=LoianeGroner)
+- [x] [1-5 Introdução à Orientação a Objetos](https://www.youtube.com/watch?v=KUUrrIX6wGo&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=12&ab_channel=LoianeGroner)
 - [ ] 1-6 Introdução a Variávels
 - [ ] 1-7 Variáveis - Tipos Primitivos
 - [ ] 1-8 Lendo dados do teclado usando a classe Scanner
