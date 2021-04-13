@@ -11,8 +11,8 @@
 - [x] [1-3 Entendendo os Erros](https://www.youtube.com/watch?v=NoEoOaTSFMo&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=10&ab_channel=LoianeGroner)
 - [x] [1-4 Instalando uma IDE (Eclipse e Netbeans) no Linux](https://www.youtube.com/watch?v=74QEhBpzixs&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=12&ab_channel=LoianeGroner)
 - [x] [1-5 Introdução à Orientação a Objetos](https://www.youtube.com/watch?v=KUUrrIX6wGo&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=12&ab_channel=LoianeGroner)
-- [ ] 1-6 Introdução a Variávels
-- [ ] 1-7 Variáveis - Tipos Primitivos
+- [x] [1-6 Introdução a Variávels](https://www.youtube.com/watch?v=ELBqT_rueAQ&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=13&ab_channel=LoianeGroner)
+- [x] [1-7 Variáveis - Tipos Primitivos]()
 - [ ] 1-8 Lendo dados do teclado usando a classe Scanner
 - [ ] 1-9 Operadores (Aritiméticos, Lógicos e Relacionais)
 - [ ] 1-10 Condicionais If-Else
