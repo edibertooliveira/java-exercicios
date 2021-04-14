@@ -12,9 +12,9 @@
 - [x] [1-4 Instalando uma IDE (Eclipse e Netbeans) no Linux](https://www.youtube.com/watch?v=74QEhBpzixs&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=12&ab_channel=LoianeGroner)
 - [x] [1-5 Introdução à Orientação a Objetos](https://www.youtube.com/watch?v=KUUrrIX6wGo&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=12&ab_channel=LoianeGroner)
 - [x] [1-6 Introdução a Variávels](https://www.youtube.com/watch?v=ELBqT_rueAQ&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=13&ab_channel=LoianeGroner)
-- [x] [1-7 Variáveis - Tipos Primitivos]()
-- [ ] 1-8 Lendo dados do teclado usando a classe Scanner
-- [ ] 1-9 Operadores (Aritiméticos, Lógicos e Relacionais)
+- [x] [1-7 Variáveis - Tipos Primitivos](https://www.youtube.com/watch?v=aqiB58NpKLw&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=14&ab_channel=LoianeGroner)
+- [x] [1-8 Lendo dados do teclado usando a classe Scanner](https://www.youtube.com/watch?v=Z6Y8zupCKfk&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=15&ab_channel=LoianeGroner)
+- [x] [1-9 Operadores (Aritiméticos, Lógicos e Relacionais)](https://www.youtube.com/watch?v=199tKAE6sxo&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=16&ab_channel=LoianeGroner)
 - [ ] 1-10 Condicionais If-Else
 - [ ] 1-11 Condicional Switch-Case
 - [ ] 1-12 Loops while e do-while
