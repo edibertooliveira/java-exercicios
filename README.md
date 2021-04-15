@@ -20,10 +20,10 @@
 - [x] [1-12 Loops while e do-while](https://www.youtube.com/watch?v=9_12LPVMJYc&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=21)
 - [x] [1-13 Loop for](https://www.youtube.com/watch?v=HrfWrbmFUKQ&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=22)
 - [x] [1-14 Comandos Break e Continue](https://www.youtube.com/watch?v=rU-DCmwAtXE&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=28&ab_channel=LoianeGroner)
-- [ ] [1-15 Vetores (Arrays)]()
-- [ ] [1-16 Matrizes (Arrays Multidimensionais)]()
-- [ ] [1-17 Loop for each]()
-- [ ] [1-18 Como debugar]()
+- [x] [1-15 Vetores (Arrays)](https://www.youtube.com/watch?v=HxRb5KLofcI&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=29)
+- [x] [1-16 Matrizes (Arrays Multidimensionais)](https://www.youtube.com/watch?v=9h9OfzW9u9M&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=42)
+- [x] [1-17 Loop for each](https://www.youtube.com/watch?v=2ndBbnsqBXQ&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=43&ab_channel=LoianeGroner)
+- [x] [1-18 Como debugar](https://www.youtube.com/watch?v=kbzzlKfjR8k&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=44&ab_channel=LoianeGroner)
 
 #### 02 - Orientação a Objetos:
 
