@@ -15,15 +15,15 @@
 - [x] [1-7 Variáveis - Tipos Primitivos](https://www.youtube.com/watch?v=aqiB58NpKLw&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=14&ab_channel=LoianeGroner)
 - [x] [1-8 Lendo dados do teclado usando a classe Scanner](https://www.youtube.com/watch?v=Z6Y8zupCKfk&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=15&ab_channel=LoianeGroner)
 - [x] [1-9 Operadores (Aritiméticos, Lógicos e Relacionais)](https://www.youtube.com/watch?v=199tKAE6sxo&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=16&ab_channel=LoianeGroner)
-- [ ] 1-10 Condicionais If-Else
-- [ ] 1-11 Condicional Switch-Case
-- [ ] 1-12 Loops while e do-while
-- [ ] 1-13 Loop for
-- [ ] 1-14 Comandos Break e Continue
-- [ ] 1-15 Vetores (Arrays)
-- [ ] 1-16 Matrizes (Arrays Multidimensionais)
-- [ ] 1-17 Loop for each
-- [ ] 1-18 Como debugar
+- [x] [1-10 Condicionais If-Else()](https://www.youtube.com/watch?v=KJYSXTYgL_o&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=18)
+- [x] [1-11 Condicional Switch-Case](https://www.youtube.com/watch?v=JTLgFZyBUN4&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=19)
+- [x] [1-12 Loops while e do-while](https://www.youtube.com/watch?v=9_12LPVMJYc&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=21)
+- [x] [1-13 Loop for](https://www.youtube.com/watch?v=HrfWrbmFUKQ&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=22)
+- [x] [1-14 Comandos Break e Continue](https://www.youtube.com/watch?v=rU-DCmwAtXE&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=28&ab_channel=LoianeGroner)
+- [ ] [1-15 Vetores (Arrays)]()
+- [ ] [1-16 Matrizes (Arrays Multidimensionais)]()
+- [ ] [1-17 Loop for each]()
+- [ ] [1-18 Como debugar]()
 
 #### 02 - Orientação a Objetos:
 
