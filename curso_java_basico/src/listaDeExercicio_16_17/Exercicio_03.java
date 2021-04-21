@@ -3,7 +3,12 @@ package curso_java_basico.src.listaDeExercicio_16_17;
 import java.util.Scanner;
 
 /**
- * Faça um Programa que peça dois números e imprima o maior deles.
+ * Faça um programa que leia e valide as seguintes informações:
+a. Nome: maior que 3 caracteres;
+b. Idade: entre 0 e 150;
+c. Salário: maior que zero;
+d. Sexo: 'f' ou 'm';
+e. Estado Civil: 's', 'c', 'v', 'd';
  */
 
 public class Exercicio_03 {

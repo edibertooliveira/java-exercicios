@@ -3,7 +3,9 @@ package curso_java_basico.src.listaDeExercicio_16_17;
 import java.util.Scanner;
 
 /**
- * Faça um Programa que peça dois números e imprima o maior deles.
+ * Faça um programa que peça uma nota, entre zero e dez. Mostre uma
+mensagem caso o valor seja inválido e continue pedindo até que o
+usuário informe um valor válido.
  */
 
 public class Exercicio_01 {

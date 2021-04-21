@@ -3,7 +3,9 @@ package curso_java_basico.src.listaDeExercicio_16_17;
 import java.util.Scanner;
 
 /**
- * Faça um Programa que peça dois números e imprima o maior deles.
+ * Altere o programa anterior permitindo ao usuário informar as
+populações e as taxas de crescimento iniciais. Valide a entrada e
+permita repetir a operação.
  */
 
 public class Exercicio_05 {

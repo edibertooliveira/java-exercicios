@@ -3,7 +3,8 @@ package curso_java_basico.src.listaDeExercicio_16_17;
 import java.util.Scanner;
 
 /**
- * Faça um Programa que peça dois números e imprima o maior deles.
+ * Faça um programa que leia 5 números e informe a soma e a média
+dos números.
  */
 
 public class Exercicio_08 {
