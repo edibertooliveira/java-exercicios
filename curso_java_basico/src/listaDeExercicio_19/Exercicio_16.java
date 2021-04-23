@@ -33,6 +33,5 @@ public class Exercicio_16 {
 
 
     scan.close();
-
   }
 }
