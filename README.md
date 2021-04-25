@@ -27,17 +27,17 @@
 
 #### 02 - Orientação a Objetos:
 
-- [ ] 2-1 Orientação a Objetos: Classes e atributos
-- [ ] 2-2 Orientação a Objetos: Classes e métodos simples
-- [ ] 2-3 Orientação a Objetos: Classes e métodos com retorno
-- [ ] 2-4 Orientação a Objetos: Classes e métodos com parâmetros
-- [ ] 2-5 Orientação a Objetos: Pacotes e import
-- [ ] 2-6 Orientação a Objetos: Construtores
-- [ ] 2-7 Orientação a Objetos: Palavra chave this
-- [ ] 2-8 Orientação a Objetos: Modificadores private e public
-- [ ] 2-9 Orientação a Objetos: Encapsulamento: métodos getters e setters
-- [ ] 2-10 Orientação a Objetos: Sobrecarga de métodos e construtores (overload)
-- [ ] 2-11 Orientação a Objetos: Variáveis e metodos estáticos (modificador static)
+- [x] [2-1 Orientação a Objetos: Classes e atributos](https://www.youtube.com/watch?v=Gq1BS63pkRA&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=46&ab_channel=LoianeGroner)
+- [x] [2-2 Orientação a Objetos: Classes e métodos simples](https://www.youtube.com/watch?v=-t_c6F_Uoeg&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=48&ab_channel=LoianeGroner)
+- [x] [2-3 Orientação a Objetos: Classes e métodos com retorno](https://www.youtube.com/watch?v=_3fal2H8Agw&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=49&ab_channel=LoianeGroner)
+- [x] [2-4 Orientação a Objetos: Classes e métodos com parâmetros](https://www.youtube.com/watch?v=ffvsI9dnDiY&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=50&ab_channel=LoianeGroner)
+- [x] [2-5 Orientação a Objetos: Pacotes e import](https://www.youtube.com/watch?v=aRQHjfYBpM8&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=55&ab_channel=LoianeGroner)
+- [x] [2-6 Orientação a Objetos: Construtores](https://www.youtube.com/watch?v=uJKcKzro9pU&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=56&ab_channel=LoianeGroner)
+- [x] [2-7 Orientação a Objetos: Palavra chave this](https://www.youtube.com/watch?v=RLzR--Pwvcs&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=57&ab_channel=LoianeGroner)
+- [x] [2-8 Orientação a Objetos: Modificadores private e public](https://www.youtube.com/watch?v=6oD7TE90e-M&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=58&ab_channel=LoianeGroner)
+- [x] [2-9 Orientação a Objetos: Encapsulamento: métodos getters e setters](https://www.youtube.com/watch?v=vKif9IxYTLY&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=59&ab_channel=LoianeGroner)
+- [x] [2-10 Orientação a Objetos: Sobrecarga de métodos e construtores (overload)](https://www.youtube.com/watch?v=ZpssJov_5_A&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=60&ab_channel=LoianeGroner)
+- [x] [2-11 Orientação a Objetos: Variáveis e metodos estáticos (modificador static)](https://www.youtube.com/watch?v=Dz_w4YpFL80&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=65&ab_channel=LoianeGroner)
 - [ ] 2-12 Recursividade
 - [ ] 2-13 Orientação a Objetos: Relacionamento entre Classes (tem um e tem muitos)
 - [ ] 2-14 Orientação a Objetos: Herança
