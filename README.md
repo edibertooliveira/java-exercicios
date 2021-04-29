@@ -38,18 +38,18 @@
 - [x] [2-9 Orientação a Objetos: Encapsulamento: métodos getters e setters](https://www.youtube.com/watch?v=vKif9IxYTLY&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=59&ab_channel=LoianeGroner)
 - [x] [2-10 Orientação a Objetos: Sobrecarga de métodos e construtores (overload)](https://www.youtube.com/watch?v=ZpssJov_5_A&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=60&ab_channel=LoianeGroner)
 - [x] [2-11 Orientação a Objetos: Variáveis e metodos estáticos (modificador static)](https://www.youtube.com/watch?v=Dz_w4YpFL80&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=65&ab_channel=LoianeGroner)
-- [ ] 2-12 Recursividade
-- [ ] 2-13 Orientação a Objetos: Relacionamento entre Classes (tem um e tem muitos)
-- [ ] 2-14 Orientação a Objetos: Herança
-- [ ] 2-15 Orientação a Objetos: Herança: Palavra chave super
-- [ ] 2-16 Orientação a Objetos: Herança: modificadores de acesso + protected
-- [ ] 2-17 Orientação a Objetos: Herança e Polimorfismo: sobrecarga de métodos
-- [ ] 2-18 Orientação a Objetos: Herança: classes abstratas
-- [ ] 2-19 Orientação a Objetos: Palavra chave final
-- [ ] 2-20 Orientação a Objetos: Classe Object
-- [ ] 2-21 Orientação a Objetos: Interfaces
-- [ ] 2-22 Orientação a Objetos: Casting e instaceof
-- [ ] 2-23 Orientação a Objetos: Interface e herança
+- [x] [2-12 Recursividade](https://www.youtube.com/watch?v=X56_FjmbmE4&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=69)
+- [x] [2-13 Orientação a Objetos: Relacionamento entre Classes (tem um e tem muitos)](https://www.youtube.com/watch?v=edXQiFAdH2c&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=72)
+- [x] [2-14 Orientação a Objetos: Herança](https://www.youtube.com/watch?v=MOXLCjL4Ik4&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=75)
+- [x] [2-15 Orientação a Objetos: Herança: Palavra chave super](https://www.youtube.com/watch?v=aRPal-8z4RQ&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=76)
+- [x] [2-16 Orientação a Objetos: Herança: modificadores de acesso + protected](https://www.youtube.com/watch?v=xjxDh9xbfLM&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=77)
+- [x] [2-17 Orientação a Objetos: Herança e Polimorfismo: sobrecarga de métodos](https://www.youtube.com/watch?v=pMPlngyWHLM&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=78)
+- [x] [2-18 Orientação a Objetos: Herança: classes abstratas](https://www.youtube.com/watch?v=Oibb-17nD14&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=79)
+- [x] [2-19 Orientação a Objetos: Palavra chave final](https://www.youtube.com/watch?v=858FJ6DQRVg&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=80)
+- [x] [2-20 Orientação a Objetos: Classe Object](https://www.youtube.com/watch?v=dAGvL88bO9o&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=81)
+- [x] [2-21 Orientação a Objetos: Interfaces](https://www.youtube.com/watch?v=6uLLfRNgRA4&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=85)
+- [ ] [2-22 Orientação a Objetos: Casting e instaceof](https://www.youtube.com/watch?v=POEf8DKZWds&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=86)
+- [x] [2-23 Orientação a Objetos: Interface e herança](https://www.youtube.com/watch?v=mLHT8GxG0Sw&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r&index=90&ab_channel=LoianeGroner)
 
 #### 03 - Exceptions:
 
